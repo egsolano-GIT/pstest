@@ -1,0 +1,2 @@
+# pstest
+powershell VS test 
